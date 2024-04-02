@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252805092105",
+    "project_id": "magang-godseo",
+    "storage_bucket": "magang-godseo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252805092105:android:2faafff05009329972b9d8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr85cp-6T1mcBASEgV0g7o0e0VbI5dxVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
